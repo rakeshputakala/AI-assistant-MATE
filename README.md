@@ -53,6 +53,9 @@ Here's a short code breakdown  of the key parts in  JavaScript  :
    - The `btn.addEventListener('click', ...)` starts voice recognition when the microphone button is clicked.
    - `voiceSelector.addEventListener('change', ...)` listens for voice selection changes and updates the voice accordingly.
 
+# DEMO
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/ee73fbe8-be23-4ee8-8fd7-1c42fd5db020">
+
 
 
 
