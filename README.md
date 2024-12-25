@@ -1,6 +1,8 @@
 # AI-assistant-MATE
 MATE is a sleek and interactive web-based personal assistant designed to simplify user interactions. With a dynamic gradient background and microphone-enabled functionality, MATE provides an engaging experience for users. Built with HTML, CSS, and Font Awesome, this project highlights clean design and responsiveness, making it accessible on various devices.
 
+[**Live Demo**](https://rakeshputakala.github.io/AI-assistant-MATE)
+
 Features
 
 Dynamic Gradient Background: A visually appealing animated gradient that changes over time.
